@@ -2,8 +2,8 @@
 -- 说明：表结构依据实体类（Dept / Emp / EmpExpr）与 MyBatis 映射语句还原，
 --       字段长度按常见教学案例取值，可按实际业务调整。
 
-CREATE DATABASE IF NOT EXISTS tlias DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE tlias;
+CREATE DATABASE IF NOT EXISTS rulit DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE rulit;
 
 -- 部门表
 CREATE TABLE IF NOT EXISTS dept (
