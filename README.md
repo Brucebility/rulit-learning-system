@@ -1,5 +1,11 @@
 # Tlias 智能学习辅助系统（后端）
 
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.7-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-3.0.4-000000?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
 > Spring Boot 3 + MyBatis + MySQL 的部门 / 员工管理后端，包含分页条件查询、员工工作经历关联、文件上传等模块。
 > 本项目为《Java 后端开发》课程实训作品，参考课程教学案例完成。
 
